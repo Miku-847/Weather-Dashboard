@@ -19,7 +19,10 @@ button {
     width: 100%;
     padding: 0.6rem;
     margin-top: 0.5rem;
+    font-size: 1rem;
+    box-sizing: border-box;
 }
+
 
 button {
     cursor: pointer;
