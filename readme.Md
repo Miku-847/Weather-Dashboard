@@ -1,6 +1,6 @@
 # 🌦 Weather Dashboard
 
-**Live Demo:** https://miku-847.github.io/weather-dashboard/
+**Live Demo:** https://miku-847.github.io/Weather-Dashboard/
 
 A simple weather dashboard built using **vanilla JavaScript**, HTML, and CSS.  
 Users can search for a city and view real-time weather data fetched from the OpenWeather API.
