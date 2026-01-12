@@ -1,4 +1,4 @@
-import { fetchWeather } from "./api.js";
+import { fetchWeather } from "./api.js?v=2";
 import { setState } from "./state.js";
 
 const form = document.getElementById("searchForm");
